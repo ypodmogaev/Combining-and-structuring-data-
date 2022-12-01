@@ -4,5 +4,5 @@ Combining data set from different sources.
 
 Yuriy Podmogaev
 
-twitter: @podmogaev
-instagram: @yuriypodmogaev
+- twitter: @podmogaev
+- instagram: @yuriypodmogaev
